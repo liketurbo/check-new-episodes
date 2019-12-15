@@ -8,7 +8,7 @@ import updatedToday from "./utils/updatedToday"
 dotenv.config()
 
 // eslint-disable-next-line no-console
-console.log("Looking for a new episodes...")
+console.log("🔍 Looking for a new episodes...")
 
 setImmediateInterval(async () => {
   const updated = await updatedToday(
