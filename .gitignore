@@ -9,4 +9,3 @@ node_modules/
 
 # Production
 /dist/
-/src/data/*.csv
