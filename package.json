@@ -5,9 +5,9 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
-    "@babel/cli": "^7.7.5",
+    "@babel/cli": "7.7.5",
     "@babel/core": "7.7.5",
-    "@babel/node": "^7.7.4",
+    "@babel/node": "7.7.4",
     "@babel/preset-env": "7.7.6",
     "eslint": "6.7.2",
     "eslint-config-get-off-my-lawn": "5.0.1",
@@ -38,12 +38,12 @@
     ]
   },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3",
-    "dotenv-safe": "^8.2.0",
-    "ms": "^2.1.2",
-    "nodemailer": "^6.4.2",
-    "request": "^2.88.0",
-    "request-promise-native": "^1.0.8",
-    "set-immediate-interval": "^1.1.5"
+    "cheerio": "1.0.0-rc.3",
+    "dotenv-safe": "8.2.0",
+    "ms": "2.1.2",
+    "nodemailer": "6.4.2",
+    "request": "2.88.0",
+    "request-promise-native": "1.0.8",
+    "set-immediate-interval": "1.1.5"
   }
 }
