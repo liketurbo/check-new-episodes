@@ -1,0 +1,8 @@
+# Builded files
+/dist/
+
+# Node.js modules
+/node_modules/
+
+# Config
+/rollup.config.js
