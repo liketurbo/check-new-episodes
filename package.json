@@ -38,9 +38,9 @@
     ]
   },
   "dependencies": {
-    "chalk": "^3.0.0",
+    "chalk": "3.0.0",
     "cheerio": "1.0.0-rc.3",
-    "delay": "^4.3.0",
+    "delay": "4.3.0",
     "dotenv-safe": "8.2.0",
     "ms": "2.1.2",
     "nodemailer": "6.4.2",
