@@ -46,6 +46,6 @@
     "nodemailer": "6.4.2",
     "request": "2.88.0",
     "request-promise-native": "1.0.8",
-    "set-immediate-interval": "1.1.5"
+    "set-immediate-interval": "2.0.2"
   }
 }
