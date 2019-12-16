@@ -26,11 +26,7 @@ export default async url => {
     }
   }
 
-  const re = /^Uploaded (\d\d)-(\d\d).*$/u
-  const [, month, day] = re.exec(data)
+  const re = /^Uploaded Today.*$/u
 
-  const monthToday = new Date().getMonth()
-  const dayToday = new Date().getDate()
-
-  return month === monthToday && day === dayToday
+  return re.test(data)
 }
